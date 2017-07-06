@@ -1,0 +1,20 @@
+{
+  "name": "htmlbaseproject",
+  "version": "1.0.0",
+  "description": "HTMl Base Project Grunt Workflow",
+  "author": "Maynemer Brizuela",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^2.2.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-uglify": "^3.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0",
+    "jshint-stylish": "^2.2.1"
+  }
+}
