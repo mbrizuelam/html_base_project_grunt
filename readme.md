@@ -15,8 +15,8 @@ Please install this apps before using the Base Project:
 
 After installing the software above, go to the root folder, open CMD and run:
 
-*npm install*
-*bower install*
+- *npm install*
+- *bower install*
 
 This will install all the DEV and Grunt dependencies on your folder based on the package.json and the bower.json configuration.
 
