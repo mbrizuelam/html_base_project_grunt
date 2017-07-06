@@ -18,7 +18,7 @@ After installing the software above, go to the root folder, open CMD and run:
 *npm install*
 *bower install*
 
-This will install all the DEV and GULP dependencies on your folder based on the package.json and the bower.json configuration.
+This will install all the DEV and Grunt dependencies on your folder based on the package.json and the bower.json configuration.
 
 *-----------------------------------------------------------------------------------*
 
